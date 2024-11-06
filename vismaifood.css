@@ -1,0 +1,42 @@
+body{
+    align-content: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.flex1{
+  display: flex;
+  margin: 1px;
+  font-size: 30px;
+}
+.one{
+  width: 20%;
+  border-radius: 15px;
+  background-color: white;
+  padding: 5px 5px;
+  font-size: large;
+}
+.one:hover{
+background-color:yellow;
+}
+
+.two{
+  width: 20%;
+  border-radius: 15px;
+  background-color: white;
+  padding: 5px 5px;
+  font-size: large;
+}
+.two:hover{
+background-color:palevioletred;
+}
+
+*{
+  background-color: lightcyan;
+  font-family: cursive;
+}
+#four{
+  background-color: lightcyan;
+}
